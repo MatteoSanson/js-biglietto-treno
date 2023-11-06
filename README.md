@@ -1,4 +1,4 @@
-# js-biglietto-treno-form
+# js-biglietto-treno
 
 L'esercizio prevede di scrivere un programma in JavaScript che chieda all'utente il numero di chilometri da percorre e l'età del passeggero.
 Sulla base di queste informazioni si dovrà calcolare il prezzo del biglietto di viaggio, tenendo conto delle seguenti regole:
