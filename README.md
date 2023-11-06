@@ -6,7 +6,7 @@ Sulla base di queste informazioni si dovrà calcolare il prezzo del biglietto di
 - va applicato uno sconto del 20% per i minorenni.
 - va applicato uno sconto del 40% per gli over 65.
 
-Come output del prezzo finale verrà visualizzato un numero con massimo due decimali, per indicare centesimi sul prezzo.
+Come output del prezzo finale verrà visualizzato un numero con massimo due decimali, per indicare i centesimi sul prezzo.
 
 
 ## Svolgimento
