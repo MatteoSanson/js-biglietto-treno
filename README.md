@@ -17,8 +17,8 @@ Come output del prezzo finale verrà visualizzato un numero con massimo due deci
 4) Ottengo il prezzoTotale: km * prezzoKm.
 5) Applico la scontistica con le condizioni:
     - se l'età < 18
-        prezzoScontato = prezzoTotale * 0,8 (sconto del 20%);
+        scontoBiglieto = prezzoBiglietto/100 * 20 (sconto del 20%);
     - altrimenti se età >= 65 
-        prezzoScontato = prezzoTotale * 0,6 (sconto del 40%);
+        scontoBiglieto = prezzoBiglietto/100 * 40 (sconto del 40%);
     - altrimenti otteniamo prezzoTotale;
 6) Convertire il numero ottenuto in una variabile numerica con due cifre decimali.
